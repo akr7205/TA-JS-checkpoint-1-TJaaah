@@ -1,4 +1,6 @@
 1. Using loops take 10 inputs from user and find the average of all the numbers.
+   
+   
 
 2. What will be the output of the code below
 
